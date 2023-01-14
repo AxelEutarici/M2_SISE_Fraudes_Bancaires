@@ -8,22 +8,27 @@
  - [Liens](#liens)
 
 
-## Nettoyage des données
+## Pre_process
 
-### Nettoyage + stat desc 
-Le notebook Nettoyage.ipynb permet de proceder au nettoyage du jeu de données et contient une analyse descriptive de ces données.
+### Data_Cleaning.ipynb
+Le notebook Data_Cleaning.ipynb permet de proceder au nettoyage du jeu de données.
 
-## Pre-process
-
-### Resample
-Le notebook Resample.ipynb présente 
+### Sampling_methods.ipynb
 Undersampling
 Oversampling
 Under+Over
 
+### Variable_Selection.ipynb
+
+## Methods
+
+### Methods.ipynb
+
+
+
 Vous pouvez trouver les jeux de données [ici](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10?select=Xtrain_SMOTETomek.csv) 
 
-### Variable_Selection
+
 
 
 

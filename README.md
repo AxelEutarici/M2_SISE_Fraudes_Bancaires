@@ -1,9 +1,5 @@
 # Detection de fraudes bancaires (Projet M2 SISE)
 
-
-[Lien](http://gitlab.org) 
-
-
 ## Sommaire
 
  - [Nettoyage des données](#Nettoyage-des-données)
@@ -15,17 +11,21 @@
 ## Nettoyage des données
 
 ### Nettoyage + stat desc 
+Le notebook Nettoyage.ipynb permet de proceder au nettoyage du jeu de données et contient une analyse descriptive de ces données.
 
 ## Pre-process
 
 ### Resample
+Le notebook Resample.ipynb présente 
 Undersampling
 Oversampling
 Under+Over
 
-### Sel_variable
+Vous pouvez trouver les jeux de données [ici](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10?select=Xtrain_SMOTETomek.csv) 
 
-Vous pouvez trouver les jeux de données [ici](http://gitlab.org) 
+### Variable_Selection
+
+
 
 
 ## Recherche modèle classification

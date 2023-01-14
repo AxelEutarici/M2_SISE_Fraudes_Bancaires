@@ -1,7 +1,7 @@
 # Detection de fraudes bancaires (Projet M2 SISE)
 
 Repos du projet de *Detection de fraudes bancaires* du cours de fouille de données massives M2. 
-Vous pouvez trouver les jeux de données sur kaggle à travers ce [lien](https://www.kaggle.com/axeleutarici) 
+Vous pouvez trouver les jeux de données sur kaggle à travers ce [lien](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10) 
 
 
 ## Sommaire
@@ -34,9 +34,6 @@ Under+Over
 ## Methods
 
 ### Methods.ipynb
-
-
-Vous pouvez trouver les jeux de données [ici](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10?select=Xtrain_SMOTETomek.csv) 
 
 
 ## Recherche modèle classification

@@ -16,7 +16,7 @@ Chaque dossier contient des script python au format jupyter notebook.
 
 `/1_preprocess` Contient le script qui permet de faire un rapide nettoyage des données ainsi que les scripts qui permettent de faire une selection de variable et le resampling <br>
 `/2_descriptive_statistics` Contient le script qui permet de visualiser quelques statistiques descriptives du jeu de données initial avant pré-orocess<br>
-`/3_methods` Contient un script de pré-preocess sur les données ainsi qu'un script de recherche du meilleur algorithme de classification<br>
+`/3_methods` Contient un script de pré-process sur les données ainsi qu'un script de recherche du meilleur algorithme de classification<br>
 
 
 ## Récuperation des données

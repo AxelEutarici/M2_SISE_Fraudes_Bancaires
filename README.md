@@ -1,8 +1,8 @@
 # Detection de fraudes bancaires (Projet du cours de Fouilles de Données Massives M2 SISE) 
 
-Also available in English
+Also available in English : <br>
 [![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/AxelEutarici/SISE_Fraudes_Bancaires/blob/main/README.english.md)
-[![français](https://img.shields.io/badge/lang-français-green.svg)](https://github.com/AxelEutarici/SISE_Fraudes_Bancaires/blob/main/README.md)
+
 
 ## Sommaire
 

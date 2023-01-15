@@ -22,7 +22,7 @@ Chaque dossier contient des script python au format jupyter notebook.
 ## Récuperation des données
 
 Vous pouvez trouver les jeux de données sur kaggle à travers ce [lien](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10)<br>
-Dans le notebook `code_methodes` vous avez aussi le code pour importer le jeu de données directement depuis Kaggle en ligne de commande.
+Dans le notebook `code_methods` vous avez aussi le code pour importer le jeu de données directement depuis Kaggle en ligne de commande.
 
 ```sh
 kaggle_username = '<enter username>'

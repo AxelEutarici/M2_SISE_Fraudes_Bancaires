@@ -34,11 +34,6 @@ os.chdir(path)
 ```
 
 ```sh
-!kaggle config set -n username -v $kaggle_username
-!kaggle config set -n key -v $kaggle_key
-!kaggle datasets download -d axeltrc/fraudes-bancaires-smotetomek10 -p $path
-```
-```sh
 with zipfile.ZipFile('fraudes-bancaires-smotetomek10.zip', 'r') as zip_ref :
     zip_ref.extractall()
     for file in os.listdir():

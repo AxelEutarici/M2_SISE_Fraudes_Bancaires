@@ -21,7 +21,7 @@ Each file contains jupyter notebook python script.
 ## Downloading the datasets
 
 You can find the data sets on Kaggle by clicking this [link](https://www.kaggle.com/datasets/axeltrc/fraudes-bancaires-smotetomek10)<br>
-In the `code_methodes` notebook you also can import the dataset directely from Kaggle with the following code. 
+In the `code_methods` notebook you also can import the dataset directely from Kaggle with the following code. 
 
 ```sh
 kaggle_username = '<enter username>'

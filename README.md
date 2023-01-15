@@ -1,18 +1,22 @@
 # Detection de fraudes bancaires (Projet du cours de Fouilles de Données Massives M2 SISE) 
 
+Also available in English
+[![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/AxelEutarici/SISE_Fraudes_Bancaires/blob/main/README.english.md)
+[![français](https://img.shields.io/badge/lang-français-green.svg)](https://github.com/AxelEutarici/SISE_Fraudes_Bancaires/blob/main/README.md)
+
 ## Sommaire
 
  - [Aperçu du contenu GitHub](#Aperçu-du-contenu-GitHub)
  - [Récuperation des données](#Récuperation-des-données)
  - [MLflow](#MLflow)
- - [Liens](#liens)
+
 
 ## Aperçu du contenu GitHub
 Chaque dossier contient des script python au format jupyter notebook. 
 
-`/nettoyage` Contient le script qui permet de faire un rapide nettoyage des données ainsi que les scripts qui permettent de faire une selection de variable et le resampling <br>
-`/stat desc` Contient le script qui permet de visualiser quelques statistiques descriptives du jeu de données initial avant pré-orocess<br>
-`/méthodes` Contient un script de pré-preocess sur les données ainsi qu'un script de recherche du meilleur algorithme de classification<br>
+`/1_preprocess` Contient le script qui permet de faire un rapide nettoyage des données ainsi que les scripts qui permettent de faire une selection de variable et le resampling <br>
+`/2_descriptive_statistics` Contient le script qui permet de visualiser quelques statistiques descriptives du jeu de données initial avant pré-orocess<br>
+`/3_methods` Contient un script de pré-preocess sur les données ainsi qu'un script de recherche du meilleur algorithme de classification<br>
 
 
 ## Récuperation des données

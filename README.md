@@ -23,7 +23,7 @@ Dans le notebook `code_methodes` vous avez aussi le code pour importer le jeu de
 ```sh
 kaggle_username = '<enter username>'
 kaggle_key = '< enter key >'
-path = 'path/to/kaggle'
+path = 'path/to/where/to/stock/datasets'
 os.chdir(path)
 ```
 
